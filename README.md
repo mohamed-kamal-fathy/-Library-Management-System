@@ -3,8 +3,7 @@
 
 ![Library Automation](https://img.freepik.com/free-vector/students-learning-online_74855-5293.jpg)
 
-**🔗 GitHub Repository:** [github.com/mohamed-kamal-fathy/Library-Management-System](https://github.com/mohamed-kamal-fathy/Library-Management-System)  
-**📅 Project Duration:** July 2023 - August 2023  
+
 **🛠️ Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white) ![Allure](https://img.shields.io/badge/Allure-FF6C37?style=flat&logo=Allure&logoColor=white)
 
 ## 🔍 Key Testing Activities
